@@ -1,0 +1,24 @@
+div{
+    width:700px;
+    height:300px;
+    background-color: rgba(17, 134, 44, 0.529);
+}
+img{
+    height:300px;
+    float: left;
+    border-radius: 150px;
+    object-fit: cover;
+}
+h1{
+    font-size: 60px;
+    margin: 40px;
+    padding: 10px;
+    
+}
+button{
+    
+}
+p{
+    
+    
+}
